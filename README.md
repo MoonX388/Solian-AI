@@ -17,7 +17,7 @@ You can try it at https://solian.com
 
 ## Create Session
 
-```http
+```
 curl -X POST https://api.solian.com/v1/sessions \
   -H "Authorization: Bearer $SOLIAN_API_KEY" \
   -H "Content-Type: application/json" \
