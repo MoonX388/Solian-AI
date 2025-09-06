@@ -75,5 +75,6 @@ Please adhere to this project's `code of conduct`.
 ## License
 
 - [MIT](https://choosealicense.com/licenses/mit/)
-- [GNU](https://)
+- [GNU GPL v3](https://choosealicense.com/licenses/gpl-3.0/)
+
 
